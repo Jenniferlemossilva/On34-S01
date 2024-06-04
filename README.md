@@ -1,6 +1,6 @@
 
 
-# Olá, Mundo da Jennifer Lemos! 👋
+# Olá, este é o meu mundo, seja bem vindo ao mundo da Jennifer Lemos! 👋
 
 Meu nome é Jennifer Lemos e sou apaixonada por tecnologia. Além disso, adoro trabalhar com pessoas e aplicar metodologias ágeis! Juntos, podemos mudar o mundo! ✨
 
