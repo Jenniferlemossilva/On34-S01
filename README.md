@@ -1,4 +1,4 @@
-Claro! Vou transformar esse texto em um formato adequado para um arquivo README do GitHub. Aqui está:
+
 
 # Olá, Mundo da Jennifer Lemos! 👋
 
